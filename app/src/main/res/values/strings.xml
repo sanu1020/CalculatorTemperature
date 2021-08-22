@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Temperature Calculator</string>
+    <string name="et_tem">Enter the Temperature </string>
+    <string name="rb_celsius">Celsius</string>
+    <string name="rb_fahrenheit">Fahrenheit</string>
+    <string name="btn_cal">Calculate</string>
+</resources>
